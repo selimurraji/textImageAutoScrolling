@@ -1,4 +1,4 @@
-# Auto-Scrolling Text and Images using HTML & CSS
+# <span style="color: #FFC1CC;">Auto-Scrolling Text and Images using HTML & CSS</span>
 This project demonstrates a simple implementation of auto-scrolling text and images using only HTML and CSS. Ideal for creating dynamic banners, marquees, or smooth scrolling effects for websites without relying on JavaScript. Fully responsive and customizable.
 
 
@@ -103,6 +103,7 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 ---
 
 Happy building your scrolling animation effect! For questions or contributions, open a pull request or an issue on the repository.
+
 
 
 
